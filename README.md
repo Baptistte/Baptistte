@@ -29,21 +29,18 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baptistte&show_icons=true&theme=dark" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptistte&layout=compact&theme=dark" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaptisteGF&show_icons=true&theme=dark" width="45%" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteGF&layout=compact&theme=dark" width="45%" height="195">
 </div>
 
 ---
 
 ### 🔗 Me contacter :
 <p align="left">
-  <a href="https://www.linkedin.com/in/baptistegrincourt/" target="_blank">
+  <a href="https://www.linkedin.com/in/baptistegrincourtdeflogny/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-BaptisteGrincourt-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:tonemail@gmail.com">
+  <a href="mailto:baptistegrincourt@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/BaptisteGF">
-    <img src="https://img.shields.io/badge/GitHub-BaptisteGF-lightgrey?logo=github&logoColor=white">
   </a>
 </p>
