@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Salut, moi c'est Baptiste Grincourt de Flogny</h1>
 
-<!--
-**Baptistte/Baptistte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaptisteGF&label=Profile%20Views&color=blue&style=flat" alt="profile views">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi :
+- 👨‍💻 Développeur passionné par le **Web & l’Automatisation**
+- 🔭 Actuellement chez **Nacre Informatique**
+- 🎓 Étudiant en **Master Expert Dev Web**
+- 💡 Spécialiste **PHP & Laravel** 🔥  
+- ⚙️ Passionné par **l’automatisation & le scripting**
+- 🌱 Toujours en train d'apprendre et d'expérimenter  
+
+---
+
+### 🛠️ Stack technique :
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaptisteGF&show_icons=true&theme=dark" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteGF&layout=compact&theme=dark" width="45%">
+</div>
+
+---
+
+### 🔗 Me contacter :
+<p align="left">
+  <a href="https://www.linkedin.com/in/baptistegrincourt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-BaptisteGrincourt-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:tonemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/BaptisteGF">
+    <img src="https://img.shields.io/badge/GitHub-BaptisteGF-lightgrey?logo=github&logoColor=white">
+  </a>
+</p>
